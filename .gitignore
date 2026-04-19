@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.cph/
+.vscode/
+# Ignore bulky output testing files if you want
+out1.txt
+out2.txt
+new.txt
+tp.cpp
